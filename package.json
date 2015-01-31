@@ -1,0 +1,28 @@
+{
+  "name": "bunnydefendercordovabasic",
+  "version": "1.0.0",
+  "description": "bunny defender with tests",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "chai": "^1.10.0",
+    "gulp": "^3.8.10",
+    "gulp-jshint": "^1.9.0",
+    "sinon": "^1.12.2",
+    "gulp-mocha": "^2.0.0",
+    "sinon-chai": "^2.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/innovationsforlearning/bunnydefendercordovabasic.git"
+  },
+  "author": "ifl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/innovationsforlearning/bunnydefendercordovabasic/issues"
+  },
+  "homepage": "https://github.com/innovationsforlearning/bunnydefendercordovabasic"
+}

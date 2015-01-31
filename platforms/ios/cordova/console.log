@@ -1,0 +1,177 @@
+2015-01-30 23:47:19.060 BunnyDefenderCordovaBasic[18274:280511] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/angeleahdaidone/Library/Developer/CoreSimulator/Devices/58E76C54-4BCD-4EF0-9E17-36DC2C93D934/data/Containers/Data/Application/2B249388-01AE-40C8-A356-7DAA2AB1E429/Library/Cookies/Cookies.binarycookies
+2015-01-30 23:47:19.421 BunnyDefenderCordovaBasic[18274:280511] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-30 23:47:19.423 BunnyDefenderCordovaBasic[18274:280511] Multi-tasking -> Device: YES, App: YES
+2015-01-30 23:47:19.450 BunnyDefenderCordovaBasic[18274:280511] Unlimited access to network resources
+2015-01-30 23:47:19.463 BunnyDefenderCordovaBasic[18274:280511] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-30 23:47:21.175 BunnyDefenderCordovaBasic[18274:280511] Resetting plugins due to page load.
+2015-01-30 23:47:21.292 BunnyDefenderCordovaBasic[18274:280511] Finished load of: file:///Users/angeleahdaidone/Library/Developer/CoreSimulator/Devices/58E76C54-4BCD-4EF0-9E17-36DC2C93D934/data/Containers/Bundle/Application/E5709AE2-3526-4353-AA98-3D03373038B2/BunnyDefenderCordovaBasic.app/www/index.html
+2015-01-30 23:48:30.168 BunnyDefenderCordovaBasic[18402:283929] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/angeleahdaidone/Library/Developer/CoreSimulator/Devices/58E76C54-4BCD-4EF0-9E17-36DC2C93D934/data/Containers/Data/Application/E89645AD-DF87-4A63-8C7C-3F1405173A14/Library/Cookies/Cookies.binarycookies
+2015-01-30 23:48:30.255 BunnyDefenderCordovaBasic[18402:283929] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-30 23:48:30.256 BunnyDefenderCordovaBasic[18402:283929] Multi-tasking -> Device: YES, App: YES
+2015-01-30 23:48:30.257 BunnyDefenderCordovaBasic[18402:283929] Unlimited access to network resources
+2015-01-30 23:48:30.260 BunnyDefenderCordovaBasic[18402:283929] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-30 23:48:30.601 BunnyDefenderCordovaBasic[18402:283929] Resetting plugins due to page load.
+2015-01-30 23:48:30.831 BunnyDefenderCordovaBasic[18402:283929] Finished load of: file:///Users/angeleahdaidone/Library/Developer/CoreSimulator/Devices/58E76C54-4BCD-4EF0-9E17-36DC2C93D934/data/Containers/Bundle/Application/342CE29D-6DE8-4FD5-B218-95319CD2701B/BunnyDefenderCordovaBasic.app/www/index.html
+2015-01-30 23:50:54.169 BunnyDefenderCordovaBasic[18528:285008] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/angeleahdaidone/Library/Developer/CoreSimulator/Devices/58E76C54-4BCD-4EF0-9E17-36DC2C93D934/data/Containers/Data/Application/853701CF-D0C9-4324-B969-C2EF7853215C/Library/Cookies/Cookies.binarycookies
+2015-01-30 23:50:54.258 BunnyDefenderCordovaBasic[18528:285008] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-30 23:50:54.259 BunnyDefenderCordovaBasic[18528:285008] Multi-tasking -> Device: YES, App: YES
+2015-01-30 23:50:54.260 BunnyDefenderCordovaBasic[18528:285008] Unlimited access to network resources
+2015-01-30 23:50:54.262 BunnyDefenderCordovaBasic[18528:285008] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-30 23:50:54.578 BunnyDefenderCordovaBasic[18528:285008] Resetting plugins due to page load.
+2015-01-30 23:50:54.695 BunnyDefenderCordovaBasic[18528:285008] Finished load of: file:///Users/angeleahdaidone/Library/Developer/CoreSimulator/Devices/58E76C54-4BCD-4EF0-9E17-36DC2C93D934/data/Containers/Bundle/Application/7DDE0A12-33A1-41E1-B556-58C7041386CB/BunnyDefenderCordovaBasic.app/www/index.html
+2015-01-30 23:53:21.481 BunnyDefenderCordovaBasic[18640:286039] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/angeleahdaidone/Library/Developer/CoreSimulator/Devices/58E76C54-4BCD-4EF0-9E17-36DC2C93D934/data/Containers/Data/Application/EBD7BE9D-0639-42CC-BF48-F6347F82AF51/Library/Cookies/Cookies.binarycookies
+2015-01-30 23:53:21.572 BunnyDefenderCordovaBasic[18640:286039] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-30 23:53:21.572 BunnyDefenderCordovaBasic[18640:286039] Multi-tasking -> Device: YES, App: YES
+2015-01-30 23:53:21.573 BunnyDefenderCordovaBasic[18640:286039] Unlimited access to network resources
+2015-01-30 23:53:21.576 BunnyDefenderCordovaBasic[18640:286039] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-30 23:53:21.939 BunnyDefenderCordovaBasic[18640:286039] Resetting plugins due to page load.
+2015-01-30 23:53:22.078 BunnyDefenderCordovaBasic[18640:286039] Finished load of: file:///Users/angeleahdaidone/Library/Developer/CoreSimulator/Devices/58E76C54-4BCD-4EF0-9E17-36DC2C93D934/data/Containers/Bundle/Application/1015BD8E-FAF6-4D5E-9785-A07B349447F1/BunnyDefenderCordovaBasic.app/www/index.html
+>>>> frameSizeChanged = 4096
+>>>> frameSizeChanged = 4096
+2015-01-30 23:55:26.350 BunnyDefenderCordovaBasic[18791:287076] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/angeleahdaidone/Library/Developer/CoreSimulator/Devices/58E76C54-4BCD-4EF0-9E17-36DC2C93D934/data/Containers/Data/Application/C5361513-E95A-4D9B-B1E8-7B5D6B7D7E3B/Library/Cookies/Cookies.binarycookies
+2015-01-30 23:55:26.445 BunnyDefenderCordovaBasic[18791:287076] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-30 23:55:26.445 BunnyDefenderCordovaBasic[18791:287076] Multi-tasking -> Device: YES, App: YES
+2015-01-30 23:55:26.447 BunnyDefenderCordovaBasic[18791:287076] Unlimited access to network resources
+2015-01-30 23:55:26.450 BunnyDefenderCordovaBasic[18791:287076] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-30 23:55:26.765 BunnyDefenderCordovaBasic[18791:287076] Resetting plugins due to page load.
+2015-01-30 23:55:26.919 BunnyDefenderCordovaBasic[18791:287076] Finished load of: file:///Users/angeleahdaidone/Library/Developer/CoreSimulator/Devices/58E76C54-4BCD-4EF0-9E17-36DC2C93D934/data/Containers/Bundle/Application/9080A7B5-A78D-47A4-B482-23B4EF398065/BunnyDefenderCordovaBasic.app/www/index.html
+2015-01-30 23:56:00.028 BunnyDefenderCordovaBasic[18791:287076] Resetting plugins due to page load.
+2015-01-30 23:56:00.274 BunnyDefenderCordovaBasic[18791:287076] Finished load of: file:///Users/angeleahdaidone/Library/Developer/CoreSimulator/Devices/58E76C54-4BCD-4EF0-9E17-36DC2C93D934/data/Containers/Bundle/Application/9080A7B5-A78D-47A4-B482-23B4EF398065/BunnyDefenderCordovaBasic.app/www/index.html
+2015-01-30 23:58:09.270 BunnyDefenderCordovaBasic[19017:289121] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/angeleahdaidone/Library/Developer/CoreSimulator/Devices/58E76C54-4BCD-4EF0-9E17-36DC2C93D934/data/Containers/Data/Application/3961BDF7-2D09-461C-9CA4-8A635709F115/Library/Cookies/Cookies.binarycookies
+2015-01-30 23:58:09.375 BunnyDefenderCordovaBasic[19017:289121] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-30 23:58:09.376 BunnyDefenderCordovaBasic[19017:289121] Multi-tasking -> Device: YES, App: YES
+2015-01-30 23:58:09.378 BunnyDefenderCordovaBasic[19017:289121] Unlimited access to network resources
+2015-01-30 23:58:09.380 BunnyDefenderCordovaBasic[19017:289121] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-30 23:58:09.654 BunnyDefenderCordovaBasic[19017:289121] Resetting plugins due to page load.
+2015-01-30 23:58:09.800 BunnyDefenderCordovaBasic[19017:289121] Finished load of: file:///Users/angeleahdaidone/Library/Developer/CoreSimulator/Devices/58E76C54-4BCD-4EF0-9E17-36DC2C93D934/data/Containers/Bundle/Application/FB7E4C90-4EC5-44D5-8602-A18C0031D523/BunnyDefenderCordovaBasic.app/www/index.html
+2015-01-30 23:58:55.232 BunnyDefenderCordovaBasic[19146:289790] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/angeleahdaidone/Library/Developer/CoreSimulator/Devices/58E76C54-4BCD-4EF0-9E17-36DC2C93D934/data/Containers/Data/Application/851CF9D8-4BF0-49E1-B9F0-C44B0DDC1E0A/Library/Cookies/Cookies.binarycookies
+2015-01-30 23:58:55.310 BunnyDefenderCordovaBasic[19146:289790] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-30 23:58:55.310 BunnyDefenderCordovaBasic[19146:289790] Multi-tasking -> Device: YES, App: YES
+2015-01-30 23:58:55.311 BunnyDefenderCordovaBasic[19146:289790] Unlimited access to network resources
+2015-01-30 23:58:55.314 BunnyDefenderCordovaBasic[19146:289790] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-30 23:58:55.654 BunnyDefenderCordovaBasic[19146:289790] Resetting plugins due to page load.
+2015-01-31 00:02:25.593 BunnyDefenderCordovaBasic[19283:291210] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/angeleahdaidone/Library/Developer/CoreSimulator/Devices/58E76C54-4BCD-4EF0-9E17-36DC2C93D934/data/Containers/Data/Application/7C716C57-FEB8-460B-9454-0D4BBB9ADD41/Library/Cookies/Cookies.binarycookies
+2015-01-31 00:02:25.710 BunnyDefenderCordovaBasic[19283:291210] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-31 00:02:25.711 BunnyDefenderCordovaBasic[19283:291210] Multi-tasking -> Device: YES, App: YES
+2015-01-31 00:02:25.713 BunnyDefenderCordovaBasic[19283:291210] Unlimited access to network resources
+2015-01-31 00:02:25.716 BunnyDefenderCordovaBasic[19283:291210] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-31 00:02:26.008 BunnyDefenderCordovaBasic[19283:291210] Resetting plugins due to page load.
+2015-01-31 00:02:33.663 BunnyDefenderCordovaBasic[19283:291210] Finished load of: file:///Users/angeleahdaidone/Library/Developer/CoreSimulator/Devices/58E76C54-4BCD-4EF0-9E17-36DC2C93D934/data/Containers/Bundle/Application/6C4F1C30-F4F5-41BB-90C9-6FEAE7B100CD/BunnyDefenderCordovaBasic.app/www/index.html
+2015-01-31 00:03:25.315 BunnyDefenderCordovaBasic[19399:291847] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/angeleahdaidone/Library/Developer/CoreSimulator/Devices/58E76C54-4BCD-4EF0-9E17-36DC2C93D934/data/Containers/Data/Application/67323AEB-5C74-4F70-9F1D-EC306176D3E9/Library/Cookies/Cookies.binarycookies
+2015-01-31 00:03:25.424 BunnyDefenderCordovaBasic[19399:291847] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-31 00:03:25.425 BunnyDefenderCordovaBasic[19399:291847] Multi-tasking -> Device: YES, App: YES
+2015-01-31 00:03:25.426 BunnyDefenderCordovaBasic[19399:291847] Unlimited access to network resources
+2015-01-31 00:03:25.429 BunnyDefenderCordovaBasic[19399:291847] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-31 00:03:25.733 BunnyDefenderCordovaBasic[19399:291847] Resetting plugins due to page load.
+2015-01-31 00:03:25.937 BunnyDefenderCordovaBasic[19399:291847] Finished load of: file:///Users/angeleahdaidone/Library/Developer/CoreSimulator/Devices/58E76C54-4BCD-4EF0-9E17-36DC2C93D934/data/Containers/Bundle/Application/B9679644-0054-4F30-908A-CA2F805620AE/BunnyDefenderCordovaBasic.app/www/index.html
+2015-01-31 00:03:42.852 BunnyDefenderCordovaBasic[19498:292284] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/angeleahdaidone/Library/Developer/CoreSimulator/Devices/58E76C54-4BCD-4EF0-9E17-36DC2C93D934/data/Containers/Data/Application/5176737A-A1B9-497D-BB46-76438A9212B3/Library/Cookies/Cookies.binarycookies
+2015-01-31 00:03:42.957 BunnyDefenderCordovaBasic[19498:292284] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-31 00:03:42.957 BunnyDefenderCordovaBasic[19498:292284] Multi-tasking -> Device: YES, App: YES
+2015-01-31 00:03:42.959 BunnyDefenderCordovaBasic[19498:292284] Unlimited access to network resources
+2015-01-31 00:03:42.962 BunnyDefenderCordovaBasic[19498:292284] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-31 00:03:43.284 BunnyDefenderCordovaBasic[19498:292284] Resetting plugins due to page load.
+2015-01-31 00:03:43.436 BunnyDefenderCordovaBasic[19498:292284] Finished load of: file:///Users/angeleahdaidone/Library/Developer/CoreSimulator/Devices/58E76C54-4BCD-4EF0-9E17-36DC2C93D934/data/Containers/Bundle/Application/5E774F13-E959-4266-B7BE-A724CE325220/BunnyDefenderCordovaBasic.app/www/index.html
+>>>> frameSizeChanged = 4096
+>>>> frameSizeChanged = 4096
+2015-01-31 00:05:49.273 BunnyDefenderCordovaBasic[19609:293126] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/angeleahdaidone/Library/Developer/CoreSimulator/Devices/58E76C54-4BCD-4EF0-9E17-36DC2C93D934/data/Containers/Data/Application/17B8C851-74FE-4E9E-AC9A-A2CF93F29BF2/Library/Cookies/Cookies.binarycookies
+2015-01-31 00:05:49.366 BunnyDefenderCordovaBasic[19609:293126] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-31 00:05:49.367 BunnyDefenderCordovaBasic[19609:293126] Multi-tasking -> Device: YES, App: YES
+2015-01-31 00:05:49.369 BunnyDefenderCordovaBasic[19609:293126] Unlimited access to network resources
+2015-01-31 00:05:49.372 BunnyDefenderCordovaBasic[19609:293126] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-31 00:05:49.675 BunnyDefenderCordovaBasic[19609:293126] Resetting plugins due to page load.
+2015-01-31 00:05:49.822 BunnyDefenderCordovaBasic[19609:293126] Finished load of: file:///Users/angeleahdaidone/Library/Developer/CoreSimulator/Devices/58E76C54-4BCD-4EF0-9E17-36DC2C93D934/data/Containers/Bundle/Application/B11383A9-17FC-4E49-BEAF-B5ED936E818B/BunnyDefenderCordovaBasic.app/www/index.html
+>>>> frameSizeChanged = 4096
+>>>> frameSizeChanged = 4096
+2015-01-31 00:06:18.514 BunnyDefenderCordovaBasic[19711:293623] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/angeleahdaidone/Library/Developer/CoreSimulator/Devices/58E76C54-4BCD-4EF0-9E17-36DC2C93D934/data/Containers/Data/Application/FAC711F3-FB69-4807-B690-B0FAFE037B65/Library/Cookies/Cookies.binarycookies
+2015-01-31 00:06:18.617 BunnyDefenderCordovaBasic[19711:293623] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-31 00:06:18.618 BunnyDefenderCordovaBasic[19711:293623] Multi-tasking -> Device: YES, App: YES
+2015-01-31 00:06:18.619 BunnyDefenderCordovaBasic[19711:293623] Unlimited access to network resources
+2015-01-31 00:06:18.623 BunnyDefenderCordovaBasic[19711:293623] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-31 00:06:18.920 BunnyDefenderCordovaBasic[19711:293623] Resetting plugins due to page load.
+2015-01-31 00:06:19.061 BunnyDefenderCordovaBasic[19711:293623] Finished load of: file:///Users/angeleahdaidone/Library/Developer/CoreSimulator/Devices/58E76C54-4BCD-4EF0-9E17-36DC2C93D934/data/Containers/Bundle/Application/64B086F7-1FB6-4301-BCF1-F445D522F2D2/BunnyDefenderCordovaBasic.app/www/index.html
+>>>> frameSizeChanged = 4096
+>>>> frameSizeChanged = 4096
