@@ -157,6 +157,7 @@ BunnyDefender.Game.prototype = {
             this.gameover = true;
             this.countdown.setText('Bunnies Left 0');
             this.overmessage = this.add.bitmapText(this.world.centerX-180, this.world.centerY-40, 'eightbitwonder', 'GAME OVER\n\n' + this.secondsElapsed, 42);
+            this.setScore(this.secondsElapsed);
             this.overmessage.align = "center";
             this.overmessage.inputEnabled = true;
             this.overmessage.events.onInputDown.addOnce(this.quitGame, this);
@@ -194,5 +195,28 @@ BunnyDefender.Game.prototype = {
         this.physics.arcade.overlap(this.spacerockgroup, this.burst, this.burstCollision, null, this);
         this.physics.arcade.overlap(this.spacerockgroup, this.bunnygroup, this.bunnyCollision, null, this);
         this.physics.arcade.overlap(this.bunnygroup, this.burst, this.friendlyFire, null, this);
+    },
+
+    setScore: function() {
+      $.ajax({
+        type: 'PUT',
+        url: 'http://localhost:3000/api/v1/users/' + currentUser.id + '.json',
+        crossDomain: true,
+        data: {
+          user: {
+              id: currentUser.id,
+              email: currentUser.email,
+              authentication_token: currentUser.authentication_token,
+              score: this.secondsElapsed
+          },
+        },
+        dataType: 'json',
+        success: function(responseData) {
+            alert('Your new score was added !');
+        },
+        error: function(responseData) {
+          alert("There was a problem, please try again.");
+        }
+      });
     }
 };

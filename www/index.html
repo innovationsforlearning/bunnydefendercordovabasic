@@ -55,6 +55,7 @@
                   dataType: 'json',
                   success: function(responseData) {
                         console.log(responseData);
+                        currentUser = responseData;
                         $('#login').hide();
                         $('#gameContainer').show();
                         var game = new Phaser.Game(540, 960, Phaser.AUTO, 'gameContainer');
@@ -71,7 +72,7 @@
             })
         }, false);
     </script>
-   <!--  <script>  auto form field for development
+    <!-- <script>  //auto form field for development
         $("#email-field").val("angeleah@innovationsforlearning.org");
         $("#password-field").val("12345678");
     </script> -->

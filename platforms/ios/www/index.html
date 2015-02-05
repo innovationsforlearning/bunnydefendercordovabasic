@@ -7,6 +7,7 @@
   <link rel="icon" sizes="196x196" href="bunny.png">
 	<title>Bunny Defender</title>
     <script type="text/javascript" src="cordova.js"></script>
+    <script src="libs/jquery-2.1.3.min.js"></script>
     <script src="libs/phaser.js"></script>
     <script src="js/Boot.js"></script>
     <script src="js/Preloader.js"></script>
@@ -18,19 +19,62 @@
 			margin: 0;
 			background-color: #000000;
 		}
+        p {
+            color: white;
+        }
 	</style>
 </head>
 <body>
+    <div id="login">
+        <p>email:</p>
+        <input type="text" name="email" id="email-field">
+        <p>password:</p>
+        <input type="password" name="password" id="password-field">
+        <br />
+        <input type="button" value="Submit" id="submit">
+    </div>
+
     <div id="gameContainer"></div>
     <script>
         document.addEventListener('deviceready', function() {
-            var game = new Phaser.Game(540, 960, Phaser.AUTO, 'gameContainer');
-            game.state.add('Boot', BunnyDefender.Boot);
-            game.state.add('Preloader', BunnyDefender.Preloader);
-            game.state.add('StartMenu', BunnyDefender.StartMenu);
-            game.state.add('Game', BunnyDefender.Game);
-            game.state.start('Boot');
+            $("#gameContainer").hide();
+            $("#submit").on("click", function() {
+                var email = $("#email-field").val();
+                var password = $("#password-field").val();
+
+                $.ajax({
+                  type: 'POST',
+                  url: 'http://localhost:3000/users/sign_in.json',
+                  crossDomain: true,
+                  data: {
+                    user: {
+                        email: email,
+                        password: password
+                    },
+                  },
+                  dataType: 'json',
+                  success: function(responseData) {
+                        console.log(responseData);
+                        currentUser = responseData;
+                        $('#login').hide();
+                        $('#gameContainer').show();
+                        var game = new Phaser.Game(540, 960, Phaser.AUTO, 'gameContainer');
+                        game.state.add('Boot', BunnyDefender.Boot);
+                        game.state.add('Preloader', BunnyDefender.Preloader);
+                        game.state.add('StartMenu', BunnyDefender.StartMenu);
+                        game.state.add('Game', BunnyDefender.Game);
+                        game.state.start('Boot');
+                  },
+                  error: function(responseData) {
+                    alert("There was a problem, please try again.");
+                  }
+                });
+            })
         }, false);
+    </script>
+    <script>  //auto form field for development
+        $("#email-field").val("angeleah@innovationsforlearning.org");
+        $("#password-field").val("12345678");
     </script>
 </body>
 </html>
