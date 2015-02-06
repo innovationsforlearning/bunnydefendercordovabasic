@@ -37,6 +37,8 @@
     <div id="gameContainer"></div>
     <script>
         document.addEventListener('deviceready', function() {
+            prod_api_url = 'https://iflauthexample-webapp.herokuapp.com'
+            dev_api_url = 'http://localhost:3000'
             $("#gameContainer").hide();
             $("#submit").on("click", function() {
                 var email = $("#email-field").val();
@@ -44,7 +46,8 @@
 
                 $.ajax({
                   type: 'POST',
-                  url: 'http://localhost:3000/users/sign_in.json',
+                  url: prod_api_url + '/users/sign_in.json',
+                  // url: 'http://localhost:3000/users/sign_in.json',
                   crossDomain: true,
                   data: {
                     user: {
@@ -72,9 +75,9 @@
             })
         }, false);
     </script>
-    <script>  //auto form field for development
+    <!-- <script>  //auto form field for development
         $("#email-field").val("angeleah@innovationsforlearning.org");
         $("#password-field").val("12345678");
-    </script>
+    </script> -->
 </body>
 </html>

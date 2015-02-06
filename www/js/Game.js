@@ -200,7 +200,8 @@ BunnyDefender.Game.prototype = {
     setScore: function() {
       $.ajax({
         type: 'PUT',
-        url: 'http://localhost:3000/api/v1/users/' + currentUser.id + '.json',
+        // url: 'http://localhost:3000/api/v1/users/' + currentUser.id + '.json',
+        url: prod_api_url + '/api/v1/users/' + currentUser.id + '.json',
         crossDomain: true,
         data: {
           user: {
